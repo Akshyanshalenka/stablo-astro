@@ -1,4 +1,5 @@
 // https://astro.build/config
+import { configure } from 'astro/config';
 import { defineConfig } from "astro/config";
 import tailwind from "@astrojs/tailwind";
 import image from "@astrojs/image";
